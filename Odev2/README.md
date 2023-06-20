@@ -1,3 +1,3 @@
 # Google 1998
 Google First Version
-![](img/google1998.png)s
+![](img/google1998.png)
